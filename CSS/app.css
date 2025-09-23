@@ -2,7 +2,45 @@ h1{
     color: red;
 }
 
+h2{
+    color: blue;
+}
+
+body{
+    margin: 0;
+}
 
 nav{
     background-color: gray;
+    
+}
+
+p{
+    color: aqua;
+}
+
+.information-section{
+    background-color: blueviolet;
+    color: white;
+}
+
+.form-section{
+    text-align: center;
+    padding: 10px 0;
+}
+/* para que se apliquye este estilo es para todos los sections en index html  */
+
+#footer{
+    background-color: blue;
+    color: brown;
+    text-align: center;
+    padding: 16px 40px;
+}
+
+#footer {
+    padding: 16px 50px;
+}
+
+#footer p{
+    color:violet;
 }
